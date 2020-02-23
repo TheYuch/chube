@@ -2228,6 +2228,7 @@ GameObject:
   - component: {fileID: 8916373820995759406}
   - component: {fileID: 3128016968959386418}
   - component: {fileID: 3854665744188000632}
+  - component: {fileID: 1552446246945071298}
   m_Layer: 8
   m_Name: Enemy Center Center
   m_TagString: Enemy
@@ -2422,6 +2423,18 @@ MonoBehaviour:
   - {fileID: 8548673549919618744}
   - {fileID: 4630804607053915001}
   - {fileID: 2046248287704654457}
+--- !u!114 &1552446246945071298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7876969442241855522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68322a437620b2c478cdd42928f90fbc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8781506418300366355
 GameObject:
   m_ObjectHideFlags: 0
